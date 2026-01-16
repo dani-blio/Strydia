@@ -1,0 +1,2 @@
+# Strydia
+Strydia-bakned 
